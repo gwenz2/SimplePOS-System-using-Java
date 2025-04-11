@@ -1,0 +1,337 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Launcher:	C:\Users\gwenb\Desktop\POS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db" pos_system.POS
+Args length:	174/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Launcher:	C:\Users\gwenb\Desktop\POS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db" pos_system.POS
+Args length:	174/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Launcher:	C:\Users\gwenb\Desktop\POS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db" pos_system.POS
+Args length:	174/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db" pos_system.POS
+Args length:	175/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db" pos_system.POS
+Args length:	175/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Add classpath:	storeinfo.txt
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db;storeinfo.txt" pos_system.POS
+Args length:	189/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Add classpath:	storeinfo.txt
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db;storeinfo.txt" pos_system.POS
+Args length:	189/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db" pos_system.POS
+Args length:	175/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	pos_db.db
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;pos_db.db" pos_system.POS
+Args length:	175/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar" pos_system.POS
+Args length:	165/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Substitute:	EXEFILE = C:\Users\gwenb\Desktop\POSS\POS.exe
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -Dlaunch4j.exefile="C:\Users\gwenb\Desktop\POSS\POS.exe" -Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar" pos_system.POS
+Args length:	366/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Substitute:	EXEFILE = C:\Users\gwenb\Desktop\POSS\POS.exe
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	donateme.png
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -Dlaunch4j.exefile="C:\Users\gwenb\Desktop\POSS\POS.exe" -Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;donateme.png" pos_system.POS
+Args length:	379/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gwenb\Desktop\POSS\POS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	POSApp
+Working dir:	C:\Users\gwenb\Desktop\POSS\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java\jre1.8.0_111
+Check launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Substitute:	EXEFILE = C:\Users\gwenb\Desktop\POSS\POS.exe
+Substitute:	EXEDIR = C:\Users\gwenb\Desktop\POSS
+Main class:	pos_system.POS
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\sqlite-jdbc-3.7.2.jar
+Add classpath:	lib\pdfbox-app-2.0.32.jar
+Add classpath:	donateme.png
+Launcher:	C:\Users\gwenb\Desktop\POSS\java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -Dlaunch4j.exefile="C:\Users\gwenb\Desktop\POSS\POS.exe" -Dlaunch4j.exedir="C:\Users\gwenb\Desktop\POSS" -classpath "C:\Users\gwenb\Desktop\POSS\POS.exe;lib\AbsoluteLayout.jar;lib\beansbinding-1.2.1.jar;lib\sqlite-jdbc-3.7.2.jar;lib\pdfbox-app-2.0.32.jar;donateme.png" pos_system.POS
+Args length:	379/32768 chars
+Exit code:	0
